@@ -1,0 +1,11 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike,
+strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody,
+tfoot, thead, tr, th, td ,textarea,input { margin:0; padding:0;  }
+body {font-size: 13px; line-height: 1.5; font-family:'Microsoft Yahei','simsun','arial','tahoma';  color: #333; }
+button,input,select,textarea{font-size:100%;}
+img{border:none;}
+a{text-decoration: none}
+ul, ol { list-style: none; }
+.clear::after{ clear: both; content: ""; display: block; overflow: hidden }
+.fl{ float: left; }
+.fr{float: right;}
